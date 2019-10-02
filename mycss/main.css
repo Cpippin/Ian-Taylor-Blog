@@ -1,0 +1,21 @@
+  .travels-button {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .stories-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 5px;
+  }
+  
+  .card {
+    border: 2px solid black;
+    margin: 5px;
+    background-color: silver;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
